@@ -1,0 +1,60 @@
+this is the data I have scraped : 
+            <div class="py-12">
+        <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
+            <div class="bg-white overflow-hidden shadow-xl sm:rounded-lg">
+
+                
+                                <div wire:id="NgD5sSBwygsxt3TZsHEG" class="py-4 px-4" wire:poll.60s="">
+                <ul role="list" class="divide-y divide-gray-200">
+            </ul>
+    </div>
+
+<!-- Livewire Component wire-end:NgD5sSBwygsxt3TZsHEG -->            </div>
+        </div>
+    </div>
+        , | Thu Mar 02 2023 01:00:52 GMT+0530 (India Standard Time).
+this is the data I have scraped : 
+            <div class="py-12">
+        <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
+            <div class="bg-white overflow-hidden shadow-xl sm:rounded-lg">
+
+                
+                                <div wire:id="UzqZE5zlj1hzf7yCJl5F" class="py-4 px-4" wire:poll.60s="">
+                <ul role="list" class="divide-y divide-gray-200">
+            </ul>
+    </div>
+
+<!-- Livewire Component wire-end:UzqZE5zlj1hzf7yCJl5F -->            </div>
+        </div>
+    </div>
+        , | Thu Mar 02 2023 01:01:19 GMT+0530 (India Standard Time).
+this is the data I have scraped : 
+            <div class="py-12">
+        <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
+            <div class="bg-white overflow-hidden shadow-xl sm:rounded-lg">
+
+                
+                                <div wire:id="hQFdLpdyuGt3xxxRF2nK" class="py-4 px-4" wire:poll.60s="">
+                <ul role="list" class="divide-y divide-gray-200">
+            </ul>
+    </div>
+
+<!-- Livewire Component wire-end:hQFdLpdyuGt3xxxRF2nK -->            </div>
+        </div>
+    </div>
+        , | Thu Mar 02 2023 01:01:30 GMT+0530 (India Standard Time).
+this is the data I have scraped : 
+            <div class="py-12">
+        <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
+            <div class="bg-white overflow-hidden shadow-xl sm:rounded-lg">
+
+                
+                                <div wire:id="06xXN7sXF8E7MV3YTvUD" class="py-4 px-4" wire:poll.60s="">
+                <ul role="list" class="divide-y divide-gray-200">
+            </ul>
+    </div>
+
+<!-- Livewire Component wire-end:06xXN7sXF8E7MV3YTvUD -->            </div>
+        </div>
+    </div>
+        , | Thu Mar 02 2023 01:16:16 GMT+0530 (India Standard Time).
